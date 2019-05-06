@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Example4", "Example4\Exampl
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Example4(강바다)", "Example4(강바다)\Example4(강바다).vcxproj", "{D25E2AB9-34D6-4B07-A048-897793457919}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "강바다_개인과제", "강바다_개인과제\강바다_개인과제.vcxproj", "{B84CB04A-BD60-4073-8542-2C3A5ED348F0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{D25E2AB9-34D6-4B07-A048-897793457919}.Release|x64.Build.0 = Release|x64
 		{D25E2AB9-34D6-4B07-A048-897793457919}.Release|x86.ActiveCfg = Release|Win32
 		{D25E2AB9-34D6-4B07-A048-897793457919}.Release|x86.Build.0 = Release|Win32
+		{B84CB04A-BD60-4073-8542-2C3A5ED348F0}.Debug|x64.ActiveCfg = Debug|x64
+		{B84CB04A-BD60-4073-8542-2C3A5ED348F0}.Debug|x64.Build.0 = Debug|x64
+		{B84CB04A-BD60-4073-8542-2C3A5ED348F0}.Debug|x86.ActiveCfg = Debug|Win32
+		{B84CB04A-BD60-4073-8542-2C3A5ED348F0}.Debug|x86.Build.0 = Debug|Win32
+		{B84CB04A-BD60-4073-8542-2C3A5ED348F0}.Release|x64.ActiveCfg = Release|x64
+		{B84CB04A-BD60-4073-8542-2C3A5ED348F0}.Release|x64.Build.0 = Release|x64
+		{B84CB04A-BD60-4073-8542-2C3A5ED348F0}.Release|x86.ActiveCfg = Release|Win32
+		{B84CB04A-BD60-4073-8542-2C3A5ED348F0}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
